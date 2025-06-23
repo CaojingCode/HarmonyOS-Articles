@@ -22,3 +22,11 @@
 [Implementing the 2048 Puzzle Game on HarmonyOS](https://github.com/CaojingCode/HarmonyOS-Articles/blob/main/Implementing%20the%202048%20Puzzle%20Game%20on%20HarmonyOS.md)
 ### 11、Implementing the Wooden Fish Knocking Mini Game on HarmonyOS
 [Implementing the Wooden Fish Knocking Mini Game on HarmonyOS](https://github.com/CaojingCode/HarmonyOS-Articles/blob/main/Implementing%20the%20Wooden%20Fish%20Knocking%20Mini%20Game%20on%20HarmonyOS%20Next.md)
+### 12、The Usage of Pop-up Boxes in HarmonyOS
+[The Usage of Pop-up Boxes in HarmonyOS](https://github.com/CaojingCode/HarmonyOS-Articles/blob/main/The%20Usage%20of%20Pop-up%20Boxes%20in%20HarmonyOS%20Next.md)
+### 13、Implementing Vertical Carousel Notifications in HarmonyOS
+[Implementing Vertical Carousel Notifications in HarmonyOS](https://github.com/CaojingCode/HarmonyOS-Articles/blob/main/Implementing%20Vertical%20Carousel%20Notifications%20in%20HarmonyOS%20Next.md)
+### 14、Technical Analysis and Development Practice of HarmonyOS AI - Core 
+[Technical Analysis and Development Practice of HarmonyOS AI - Core](https://github.com/CaojingCode/HarmonyOS-Articles/blob/main/Technical%20Analysis%20and%20Development%20Practice%20of%20HarmonyOS%20AI%20-%20Core%20Speech%20Kit%20Offline%20Text-to-Speech%20Technology.md)
+### 15、Audio-to-Text Implementation with HarmonyOS AI - Core 
+[Audio-to-Text Implementation with HarmonyOS AI - Core](https://github.com/CaojingCode/HarmonyOS-Articles/blob/main/Audio-to-Text%20Implementation%20with%20HarmonyOS%20AI%20-%20Core%20Speech%20Kit.md)
