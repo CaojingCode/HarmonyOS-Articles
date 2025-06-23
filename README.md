@@ -20,3 +20,5 @@
 [Modifying the Color of the Image Component in HarmonyOS Next](https://github.com/CaojingCode/HarmonyOS-Articles/blob/main/Modifying%20the%20Color%20of%20the%20Image%20Component%20in%20HarmonyOS%20Next.md)
 ### 10、Implementing the 2048 Puzzle Game on HarmonyOS
 [Implementing the 2048 Puzzle Game on HarmonyOS](https://github.com/CaojingCode/HarmonyOS-Articles/blob/main/Implementing%20the%202048%20Puzzle%20Game%20on%20HarmonyOS.md)
+### 11、Implementing the Wooden Fish Knocking Mini Game on HarmonyOS
+[Implementing the Wooden Fish Knocking Mini Game on HarmonyOS](https://github.com/CaojingCode/HarmonyOS-Articles/blob/main/Implementing%20the%20Wooden%20Fish%20Knocking%20Mini%20Game%20on%20HarmonyOS%20Next.md)
